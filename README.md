@@ -1,3 +1,2 @@
 # hello-wolrd
-Just hello
-My First Branch
+Delete previous line
